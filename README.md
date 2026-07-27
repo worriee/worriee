@@ -6,7 +6,7 @@ Building tools for development and learning.
 
 I build PWA applications with AI integrations. I also make automated tools to build and improve my workflow.
 
-### Tech Stack
+### Stack
 
 - Frontend: React, Vite, Tailwind CSS, JavaScript,
   TypeScript
