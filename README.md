@@ -6,7 +6,7 @@ Building tools for development and learning.
 
 I build PWA applications with AI integrations. I also make automated tools to build and improve my workflow.
 
-### Stack
+### Stack (currently working on)
 
 - Frontend: React, Vite, Tailwind CSS, JavaScript,
   TypeScript
@@ -14,6 +14,6 @@ I build PWA applications with AI integrations. I also make automated tools to bu
 - Database: Supabase (PostgreSQL)
 - Mobile: Java, Android SDK
 - Deployment: Vercel, Render
-- Tools/CLI: OpenCode, Pi, VS Code, Zed, Git, PWA service workers
+- Tools/CLI: Git, OpenCode, Pi, VS Code, Zed, Android Studio (recently quitted laptop can't handle anymore)
 - Platforms Used: Upstash, Resend, RapidAPI, Google AI Studio, NVIDIA NIM API, Vercel, Render, Supabase
-- AI Used: GLM, Deepseek, Mimo, Gemma
+- Most Used AI: GLM, Deepseek, Mimo, Gemma
