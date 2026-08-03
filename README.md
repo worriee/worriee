@@ -1,12 +1,13 @@
 ## Julry Mahilum
 
-Building tools for development and learning.
+I think with AI.
 
 ### About
 
-I build PWA applications with AI integrations. I also make automated tools to build and improve my workflow.
+Building tools for development and learning.
+I build applications (currently PWA) with AI integrations and also make automated tools to build and improve my workflow.
 
-### Stack (currently working on)
+### Stack (still learning on)
 
 - Frontend: React, Vite, Tailwind CSS, JavaScript,
   TypeScript
@@ -16,4 +17,4 @@ I build PWA applications with AI integrations. I also make automated tools to bu
 - Deployment: Vercel, Render
 - Tools/CLI: Git, OpenCode, Pi, VS Code, Zed, Android Studio (recently quitted laptop can't handle anymore)
 - Platforms Used: Upstash, Resend, RapidAPI, Google AI Studio, NVIDIA NIM API, Vercel, Render, Supabase
-- Most Used AI: GLM, Deepseek, Mimo, Gemma
+- Most Used AI: GLM, Deepseek, Mimo, Kimi
