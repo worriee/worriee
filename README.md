@@ -17,4 +17,4 @@ I build applications (currently PWA) with AI integrations and also make automate
 - Deployment: Vercel, Render
 - Tools/CLI: Git, OpenCode, Pi, VS Code, Zed, Android Studio (recently quitted laptop can't handle anymore)
 - Platforms Used: Upstash, Resend, RapidAPI, Google AI Studio, NVIDIA NIM API, Vercel, Render, Supabase
-- Most Used AI: GLM, Deepseek, Mimo, Kimi
+- Most Used AI: GLM, Deepseek, Kimi
