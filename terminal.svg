@@ -18,14 +18,6 @@
 <circle cx="24" cy="21" r="6" fill="#ff5f56" />
 <circle cx="44" cy="21" r="6" fill="#ffbd2e" />
 <circle cx="64" cy="21" r="6" fill="#27c93f" />
-<text
-        x="258"
-        y="26"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="13"
-        fill="#8b949e"
-    >julry@worriee: ~</text>
 <g font-family="monospace" font-size="15">
 <text x="24" y="82"><tspan
                 font-weight="bold"
