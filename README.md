@@ -17,4 +17,4 @@
 
 _slow but curious._
 
-Full Stack - AI Integration. I build web and applications (PWA) with AI integrations, and I make semi-automated tools to build/improve my agentic workflow.
+Full Stack - AI Integration. I build web and applications (PWA) with AI integration, and I make semi-automated tools to build/improve my agentic workflow.
