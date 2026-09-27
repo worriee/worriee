@@ -1,4 +1,9 @@
-![terminal](./terminal.svg)
+<table>
+  <tr>
+    <td width="60%"><img src="./terminal.svg" width="100%" /></td>
+    <td width="40%"><img src="https://ghstats.dev/api/card?username=worriee&theme=gruvbox&hide_title=true" width="100%" /></td>
+  </tr>
+</table>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-52525b?style=for-the-badge)](https://julrym.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julry-mahilum-91a47240a)
