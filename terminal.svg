@@ -1,8 +1,17 @@
+<!--
+TERMINAL LAYOUT RULE (row rhythm = 23px):
+- REMOVE row: delete block, every y below it -23, palette y -23, card height -23
+- ADD row: every y at/after slot +23, palette y +23, card height +23
+- Palette y = last row + 32 | Card height = palette y + 45 (18 bar + 27 pad)
+- Height lives in 3 spots: height attr, viewBox, background <rect>
+- Spacing = positions only. NEVER touch CSS/animation for gaps.
+-->
+
 <svg
     xmlns="http://www.w3.org/2000/svg"
     width="516"
-    height="435"
-    viewBox="0 0 516 435"
+    height="389"
+    viewBox="0 0 516 389"
 >
 <style>
 .out{opacity:0;animation:show .4s ease 1.9s forwards}
@@ -12,7 +21,7 @@
 @keyframes follow{0%{transform:translateX(0)}1%,12.5%{transform:translateX(9px)}13.5%,25%{transform:translateX(18px)}26%,37.5%{transform:translateX(27px)}38.5%,50%{transform:translateX(36px)}51%,62.5%{transform:translateX(45px)}63.5%,75%{transform:translateX(54px)}76%,87.5%{transform:translateX(63px)}88%,93.5%{transform:translateX(72px)}94.5%,100%{transform:translateX(81px)}}
 @keyframes hide{to{opacity:0}}
 </style>
-<rect width="516" height="435" rx="12" fill="#0d1117" />
+<rect width="516" height="389" rx="12" fill="#0d1117" />
 <rect width="516" height="42" rx="12" fill="#161b22" />
 <rect y="30" width="516" height="12" fill="#161b22" />
 <line x1="0" y1="42" x2="516" y2="42" stroke="#30363d" />
@@ -68,53 +77,47 @@
                 >Host:</tspan><tspan
                     fill="#6cb6ff"
                 >  github.com/worriee</tspan></text>
-<text x="24" y="197"><tspan
-                    font-weight="bold"
-                    fill="#e5a73b"
-                >Kernel:</tspan><tspan
-                    fill="#6cb6ff"
-                >  Full Stack - AI Integration</tspan></text>
-<text x="24" y="220"><tspan font-weight="bold" fill="#e5a73b">IDE:</tspan><tspan
+<text x="24" y="197"><tspan font-weight="bold" fill="#e5a73b">IDE:</tspan><tspan
                     fill="#6cb6ff"
                 >  Zed, VS Code</tspan></text>
-<text x="24" y="243"><tspan
+<text x="24" y="220"><tspan
                     font-weight="bold"
                     fill="#e5a73b"
                 >Languages:</tspan><tspan
                     fill="#6cb6ff"
                 >  JavaScript, Java</tspan></text>
-<text x="24" y="266"><tspan
+<text x="24" y="243"><tspan
                     font-weight="bold"
                     fill="#e5a73b"
                 >Learning:</tspan><tspan
                     fill="#6cb6ff"
                 >  Typescript, Python, PostgreSQL</tspan></text>
-<text x="24" y="289"><tspan
+<text x="24" y="266"><tspan
                     font-weight="bold"
                     fill="#e5a73b"
                 >Markup:</tspan><tspan
                     fill="#6cb6ff"
                 >  HTML, CSS, JSON, Markdown</tspan></text>
-<text x="24" y="312"><tspan
+<text x="24" y="289"><tspan
                     font-weight="bold"
                     fill="#e5a73b"
                 >Spoken:</tspan><tspan
                     fill="#6cb6ff"
                 >  English, Cebuano, Filipino</tspan></text>
-<text x="24" y="335"><tspan
+<text x="24" y="312"><tspan
                     font-weight="bold"
                     fill="#e5a73b"
                 >Hobbies:</tspan><tspan
                     fill="#6cb6ff"
                 >  Agentic Workflow, PWA Apps, Gaming, Music</tspan></text>
-<rect x="24" y="390" width="36" height="18" fill="#5c5c5c" />
-<rect x="68" y="390" width="36" height="18" fill="#ff6b6b" />
-<rect x="112" y="390" width="36" height="18" fill="#73ba25" />
-<rect x="156" y="390" width="36" height="18" fill="#e5a73b" />
-<rect x="200" y="390" width="36" height="18" fill="#6cb6ff" />
-<rect x="244" y="390" width="36" height="18" fill="#c678dd" />
-<rect x="288" y="390" width="36" height="18" fill="#56b6c2" />
-<rect x="332" y="390" width="36" height="18" fill="#e4e4e7" />
+<rect x="24" y="344" width="36" height="18" fill="#5c5c5c" />
+<rect x="68" y="344" width="36" height="18" fill="#ff6b6b" />
+<rect x="112" y="344" width="36" height="18" fill="#73ba25" />
+<rect x="156" y="344" width="36" height="18" fill="#e5a73b" />
+<rect x="200" y="344" width="36" height="18" fill="#6cb6ff" />
+<rect x="244" y="344" width="36" height="18" fill="#c678dd" />
+<rect x="288" y="344" width="36" height="18" fill="#56b6c2" />
+<rect x="332" y="344" width="36" height="18" fill="#e4e4e7" />
 </g>
 </g>
 </svg>

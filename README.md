@@ -20,6 +20,6 @@
 
 ### About Me
 
-_slow but curious._
+> _"slow but curious."_
 
-Full Stack - AI Integration. I build web and applications (PWA) with AI integration, and I make semi-automated tools to build/improve my agentic workflow.
+I build web and applications (PWA) with AI integration, and I make semi-automated tools to build/improve my agentic workflow.
