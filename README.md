@@ -1,6 +1,6 @@
 ![terminal](./terminal.svg)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-julrym.vercel.app-52525b?style=for-the-badge)](https://julrym.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-52525b?style=for-the-badge)](https://julrym.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julry-mahilum-91a47240a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julrymahilum12@gmail.com)
 
