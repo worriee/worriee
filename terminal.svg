@@ -1,8 +1,8 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     width="516"
-    height="481"
-    viewBox="0 0 516 481"
+    height="435"
+    viewBox="0 0 516 435"
 >
 <style>
 .out{opacity:0;animation:show .4s ease 1.9s forwards}
@@ -12,7 +12,7 @@
 @keyframes blink{50%{opacity:0}}
 @keyframes hide{to{opacity:0}}
 </style>
-<rect width="516" height="481" rx="12" fill="#0d1117" />
+<rect width="516" height="435" rx="12" fill="#0d1117" />
 <rect width="516" height="42" rx="12" fill="#161b22" />
 <rect y="30" width="516" height="12" fill="#161b22" />
 <line x1="0" y1="42" x2="516" y2="42" stroke="#30363d" />
@@ -53,82 +53,76 @@
                 >h</tspan></tspan><tspan
                 class="cur"
                 fill="#f5f5f5"
-            > &#9608;</tspan></text>
+            >█</tspan></text>
 <g class="out">
-<text x="24" y="105"><tspan font-weight="bold" fill="#e5a73b">OS:</tspan><tspan
+<text x="24" y="128"><tspan font-weight="bold" fill="#e5a73b">OS:</tspan><tspan
                     fill="#6cb6ff"
                 >  openSUSE Tumbleweed</tspan></text>
-<text x="24" y="128"><tspan
+<text x="24" y="151"><tspan
                     font-weight="bold"
                     fill="#e5a73b"
                 >Uptime:</tspan><tspan
                     fill="#6cb6ff"
                 >  coding since 2020 - current</tspan></text>
-<text x="24" y="151"><tspan
+<text x="24" y="174"><tspan
                     font-weight="bold"
                     fill="#e5a73b"
                 >Host:</tspan><tspan
                     fill="#6cb6ff"
                 >  github.com/worriee</tspan></text>
-<text x="24" y="174"><tspan
+<text x="24" y="197"><tspan
                     font-weight="bold"
                     fill="#e5a73b"
                 >Kernel:</tspan><tspan
                     fill="#6cb6ff"
                 >  Full Stack - AI Integration</tspan></text>
-<text x="24" y="197"><tspan font-weight="bold" fill="#e5a73b">IDE:</tspan><tspan
+<text x="24" y="220"><tspan font-weight="bold" fill="#e5a73b">IDE:</tspan><tspan
                     fill="#6cb6ff"
                 >  Zed, VS Code</tspan></text>
-<text x="24" y="220"><tspan
+<text x="24" y="243"><tspan
                     font-weight="bold"
                     fill="#e5a73b"
                 >Languages:</tspan><tspan
                     fill="#6cb6ff"
                 >  JavaScript, Java</tspan></text>
-<text x="24" y="243"><tspan
+<text x="24" y="266"><tspan
                     font-weight="bold"
                     fill="#e5a73b"
                 >Learning:</tspan><tspan
                     fill="#6cb6ff"
                 >  Typescript, Python, PostgreSQL</tspan></text>
-<text x="24" y="266"><tspan
+<text x="24" y="289"><tspan
                     font-weight="bold"
                     fill="#e5a73b"
                 >Markup:</tspan><tspan
                     fill="#6cb6ff"
                 >  HTML, CSS, JSON, Markdown</tspan></text>
-<text x="24" y="289"><tspan
+<text x="24" y="312"><tspan
                     font-weight="bold"
                     fill="#e5a73b"
                 >Spoken:</tspan><tspan
                     fill="#6cb6ff"
                 >  English, Cebuano, Filipino</tspan></text>
-<text x="24" y="312"><tspan
+<text x="24" y="335"><tspan
                     font-weight="bold"
                     fill="#e5a73b"
                 >Hobbies:</tspan><tspan
                     fill="#6cb6ff"
                 >  Agentic Workflow, PWA Apps, Gaming, Music</tspan></text>
-<text x="24" y="335"><tspan
-                    font-weight="bold"
-                    fill="#e5a73b"
-                >Email:</tspan><tspan
-                    fill="#6cb6ff"
-                >  julrymahilum12@gmail.com</tspan></text>
-<text x="24" y="404"><tspan
+<text x="24" y="358"><tspan
                     font-weight="bold"
                     fill="#e5a73b"
                 >Stats:</tspan><tspan
                     fill="#6cb6ff"
                 >  11 repos | 2 followers | 5 following</tspan></text>
-<rect x="24" y="436" width="36" height="18" fill="#5c5c5c" />
-<rect x="68" y="436" width="36" height="18" fill="#ff6b6b" />
-<rect x="112" y="436" width="36" height="18" fill="#73ba25" />
-<rect x="156" y="436" width="36" height="18" fill="#e5a73b" />
-<rect x="200" y="436" width="36" height="18" fill="#6cb6ff" />
-<rect x="244" y="436" width="36" height="18" fill="#c678dd" />
-<rect x="288" y="436" width="36" height="18" fill="#56b6c2" />
-<rect x="332" y="436" width="36" height="18" fill="#e4e4e7" />
+<rect x="24" y="390" width="36" height="18" fill="#5c5c5c" />
+<rect x="68" y="390" width="36" height="18" fill="#ff6b6b" />
+<rect x="112" y="390" width="36" height="18" fill="#73ba25" />
+<rect x="156" y="390" width="36" height="18" fill="#e5a73b" />
+<rect x="200" y="390" width="36" height="18" fill="#6cb6ff" />
+<rect x="244" y="390" width="36" height="18" fill="#c678dd" />
+<rect x="288" y="390" width="36" height="18" fill="#56b6c2" />
+<rect x="332" y="390" width="36" height="18" fill="#e4e4e7" />
 </g>
 </g>
 </svg>
